@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chelsea Residence"
-author: Long Tran
+author: long
 categories: [Architecture, Design]
 image: assets/projects/1604B-Chelsea-Residence/PK-view 3 v3 ff.jpg
 ---
