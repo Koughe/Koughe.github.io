@@ -38,7 +38,7 @@ Started with the living room, to provide such a feeling, we designed the ceiling
 
 <figure>
     <img class="featured-image " src="/assets/projects/1604B-Chelsea-Residence/PK-view 4 v3 ff.jpg" alt="Chelsea Residence">
-    <figcaption>Kitchen & Bar conner</figcaption>
+    <figcaption>Kitchen & Bar corner</figcaption>
 </figure>
 
 <figure>
