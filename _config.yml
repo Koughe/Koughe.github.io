@@ -1,6 +1,6 @@
 # Site
-name: "Long"
-title: "Long"
+name: "Long Tran"
+title: "Long Tran"
 description: "Home is the place to return"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -16,7 +16,9 @@ authors:
     display_name: Long Tran
     avatar: 'assets/images/anh_avatar.jpg'
     email: longchaua95@gmail.com
-    description: "5 years experience architect in interior design."
+    description: "Spent half a decade being an interior designer. Very well-capable of crafting a design suitable to customers' needs."
+    web: https://koughe.github.io/
+    cv: https://www.topcv.vn/xem-cv/BQdUA1teBQtXWlIFDgcHXQkACVUAAgRXX1dUVA4103
   
 # Plugins
 plugins:

@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design
+title: About Koughe Blog
 permalink: /about
-image: assets/images/screenshot.jpg
+image: assets/images/logo.png
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.
-
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
-
+This website is a personal blog of <a href="https://koughe.github.io/authors">Long Tran</a> - a Vietnamese architect based in Hanoi, Vietnam. It brings you carefully written articles that feature professional architecture designed thoroughly by him and his team. Those pieces describe the technical aspects of the architecture profession and the thought process of an experienced architect in a clear and fun way, and all narrate the career story of a skillful interior designer.
