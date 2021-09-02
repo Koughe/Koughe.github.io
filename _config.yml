@@ -2,8 +2,8 @@
 name: "Long Tran"
 title: "Long Tran"
 description: "Home is the place to return"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/Long-Logo V1.jpg'
+favicon: 'assets/images/Long-Logo V1.jpg'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 include: ["_pages"]
