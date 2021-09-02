@@ -1,9 +1,9 @@
 # Site
 name: "Long Tran"
 title: "Long Tran"
-description: "Home is the place to return"
-logo: 'assets/images/Long-Logo V1.jpg'
-favicon: 'assets/images/Long-Logo V1.jpg'
+description: "Home is your place to return"
+logo: 'assets/images/Long-Logo-V1.jpg'
+favicon: 'assets/images/Long-Logo-V1.jpg'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 include: ["_pages"]
