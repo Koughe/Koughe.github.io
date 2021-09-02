@@ -27,7 +27,7 @@ After the onsite evaluation, the design phase began. The main idea is to expand 
     <figcaption>Renovation plan in paper</figcaption>
 </figure>
 
-The owner specified clearly that the new design should be modern, clean, and spacious, and most importantly, the interiors should make them feel comfortable. To provide such an impression, we picked white, woo, and light grey as the main colors of the design.
+The owner specified clearly that the new design should be modern, clean, and spacious, and most importantly, the interiors should make them feel comfortable. To provide such an impression, we picked white, wood, and light grey as the main colors of the design.
 
 Started with the living room, to provide such a feeling, we designed the ceiling to be high, which comes with an indirect, embedded lighting system. Furthermore, it should be colored in white and included some round corners. Consequently, the whole living room gives the owner the feeling of *pleasant* and *convenient*.
 
