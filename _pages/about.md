@@ -2,7 +2,7 @@
 layout: page
 title: About Koughe Blog
 permalink: /about
-image: assets/images/logo.png
+image: assets/images/logo-300px.png
 imageshadow: true
 ---
 
